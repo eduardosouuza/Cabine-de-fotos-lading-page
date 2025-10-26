@@ -1,0 +1,1 @@
+// Script simplificado - vídeo agora é embutido diretamente na páginaa
